@@ -1,6 +1,6 @@
 # Simple Quiz Javascript App
 
-Just a simple state capitals quiz app. work in progress
+Just a simple 10 state capitals quiz app.
 
 ## Hosted on Github pages
 

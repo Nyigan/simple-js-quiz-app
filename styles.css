@@ -25,6 +25,15 @@ body {
     margin-bottom: 20px;
     color: #333;
 }
+.title {
+    background-color: purple;
+    color: white;
+    border: none;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top: 0;
+}
 
 .submit {
     background-color: purple;
